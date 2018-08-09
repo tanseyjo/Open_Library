@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="OL_bookInfoPage"
+    errors="0" failures="0" hostname="" id="" package="OL_bookInfoPage" skipped="0"
+    tests="1" time="16.92" timestamp="Wed, 08 Aug 2018 22:52:47 GMT">
+  
+    <testcase name="Random Book" classname="OL_bookInfoPage" time="16.92" assertions="9">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
